@@ -8,7 +8,7 @@ The app uses tmi.js and dotenv libraries in order to function. Use the commands 
 1. npm i tmi.js
 2. npm install dotenv
 
-The username and oauth password should be written in a file called .env which is in the same folder as your script. This is made to protect your login credentials from people that you might share the script with. dotenv library makes this work.
+The username and oauth password should be written in a file called .env which is in the same folder as your script. This is made to protect your login credentials from people that you might share the script with.
 
 The format that username and password should be written in .env file is below:
 
